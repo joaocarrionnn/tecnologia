@@ -1,5 +1,5 @@
 # MySQL
-![mysql](https://github.com/joaocarrionnn/tecnologia/raw/main/image.png)
+![mysql](https://github.com/joaocarrionnn/tecnologia/raw/main/img/image.png)
 * MySQL é um sistema de gerenciamento de banco de dados relacional (SGBDR) muito popular e amplamente utilizado. Ele é conhecido por ser de código aberto e por oferecer uma plataforma robusta para armazenamento e gerenciamento de dados. Algumas características principais do MySQL incluem:
 
   **Relacional**: Organiza os dados em tabelas com linhas e colunas, seguindo o modelo relacional.
