@@ -133,7 +133,9 @@ Em resumo, o Postman é uma ferramenta essencial para desenvolvedores que trabal
 
 ---
 # SQL 
-![alt text](image-5.png)
+![alt text](image-5-1.png)
+  
+
 * SQL, ou Structured Query Language, é uma linguagem padrão para gerenciamento de bancos de dados relacionais (RDBMS). Criado inicialmente pela IBM nos anos 70, o SQL se tornou a linguagem de consulta predominante para a maioria dos sistemas de banco de dados comerciais. Aqui estão as principais características e funcionalidades do SQL:
 
 ### Características Principais do SQL:
