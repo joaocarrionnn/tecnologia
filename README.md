@@ -21,7 +21,7 @@
 
 ---
 # Node.js
-![node.js](https://github.com/joaocarrionnn/tecnologia/raw/main/image-4.png)
+![node.js](https://github.com/joaocarrionnn/tecnologia/raw/main/img/image-4.png)
 * Node.js é um ambiente de tempo de execução JavaScript baseado no motor V8 do Google Chrome. Ele permite que você execute código JavaScript fora do navegador, ou seja, no servidor. Aqui estão algumas características principais do Node.js:
 
 1. **JavaScript no lado do servidor**: Node.js permite que você desenvolva aplicativos do lado do servidor usando JavaScript, o que facilita a criação de aplicações web completas utilizando a mesma linguagem em ambos os lados (cliente e servidor).
@@ -40,7 +40,7 @@
 
 ---
  # Visual Studio Code
-![vscode](https://github.com/joaocarrionnn/tecnologia/raw/main/image-6.png)
+![vscode](https://github.com/joaocarrionnn/tecnologia/raw/main/img/image-6.png)
 * Visual Studio Code (VS Code) é um editor de código-fonte desenvolvido pela Microsoft que se destaca por sua leveza, velocidade e extensibilidade. Aqui estão algumas características principais do Visual Studio Code:
 
 1. **Gratuito e de Código Aberto**: O VS Code é gratuito para download e possui seu código-fonte disponível publicamente no GitHub, o que permite que a comunidade contribua para seu desenvolvimento e melhoria contínua.
@@ -63,7 +63,7 @@ O Visual Studio Code é amplamente adotado pela comunidade de desenvolvedores de
 
 ---
 # Front-End : HTML , Java Script e CSS
-![front-end](https://github.com/joaocarrionnn/tecnologia/raw/main/image-7.png)
+![front-end](https://github.com/joaocarrionnn/tecnologia/raw/main/img/image-7.png)
 
 
 ### HTML (HyperText Markup Language)
@@ -110,7 +110,7 @@ HTML, JavaScript e CSS são as pedras angulares do desenvolvimento front-end web
 
 ---
 # POSTMAN
-![postman](https://github.com/joaocarrionnn/tecnologia/raw/main/image-8.png)
+![postman](https://github.com/joaocarrionnn/tecnologia/raw/main/img/image-8.png)
 * Postman é uma ferramenta popular utilizada principalmente por desenvolvedores para testar APIs (Interfaces de Programação de Aplicações). Ele fornece uma interface gráfica amigável que permite aos usuários enviar requisições HTTP para um servidor web e visualizar as respostas. Aqui estão as principais características e funcionalidades do Postman:
 
 1. **Ambiente de Desenvolvimento de API**: O Postman é projetado para facilitar o desenvolvimento e a colaboração em torno de APIs. Ele permite que os desenvolvedores criem, teste e documentem APIs de forma eficiente.
@@ -133,7 +133,7 @@ Em resumo, o Postman é uma ferramenta essencial para desenvolvedores que trabal
 
 ---
 # SQL 
-![sql](https://github.com/joaocarrionnn/tecnologia/raw/main/image-10.png)
+![sql](https://github.com/joaocarrionnn/tecnologia/raw/main/img/image-10.png)
   
 
 * SQL, ou Structured Query Language, é uma linguagem padrão para gerenciamento de bancos de dados relacionais (RDBMS). Criado inicialmente pela IBM nos anos 70, o SQL se tornou a linguagem de consulta predominante para a maioria dos sistemas de banco de dados comerciais. Aqui estão as principais características e funcionalidades do SQL:
