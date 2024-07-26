@@ -170,4 +170,4 @@ Em resumo, o Postman é uma ferramenta essencial para desenvolvedores que trabal
 
 Em resumo, SQL desempenha um papel fundamental no armazenamento, manipulação e análise de dados em sistemas de banco de dados relacionais, sendo uma habilidade essencial para desenvolvedores de software, analistas de dados e administradores de sistemas.
 
-[def]: image-1.png
+---
